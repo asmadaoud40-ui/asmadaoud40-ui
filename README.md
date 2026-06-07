@@ -35,7 +35,7 @@ Currently exploring FreeRTOS, PCB design, and advanced embedded systems.
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
 
 Protocols: `UART` `I2C` `SPI` `CAN` `Modbus RTU`
-Tools: `STM32CubeIDE` `Keil uVision` `oscilloscope` `logic analyzer`
+Tools: `STM32CubeIDE`
 
 **Automation & SCADA**
 
