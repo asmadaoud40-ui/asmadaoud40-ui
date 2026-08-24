@@ -82,6 +82,15 @@ A dual-microcontroller IoT system combining local embedded sensing with cloud co
 
 ## 💼 Experience
 
+**📡 Embedded Firmware Intern — ESP32 / BLE** · SFM Technologies *(Summer 2026)*
+Developed an ESP-IDF-based wireless configuration solution for an ESP32 IoT device.
+
+* Designed and implemented a custom **BLE GATT service using NimBLE**
+* Added Read/Write characteristics for Device ID, Wi-Fi credentials, MQTT parameters, and transmission interval
+* Implemented persistent configuration storage using **NVS Flash**
+* Loaded saved parameters automatically at boot and stored runtime BLE configuration updates
+* Tested and validated the BLE interface using **nRF Connect**
+
 **🏢 Engineering Design Office Internship** · La Maîtrise *(Jun. 2025)*
 Electrical plans in AutoCAD, LV installation dimensioning with Caneco BT, technical study per NF C 15-100.
 
