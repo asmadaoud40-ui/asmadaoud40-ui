@@ -104,7 +104,7 @@ Troubleshooting and repair of industrial electrical equipment.
 
 ## 📍 Currently
 
-- 🎓 Final year — Electrical Engineering, ENIT
+- 🎓 Final year — Electrical Engineering, ENSIT
 - 🔍 Open to: internships in embedded systems, IoT, robotics, or electronics
 - 🌍 Based in Tunisia — open to relocation
 
